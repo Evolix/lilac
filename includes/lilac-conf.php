@@ -18,7 +18,7 @@ return array_merge_recursive(array (
         array (
           'dsn' => 'mysql:host=localhost;dbname=lilac',
           'user' => 'lilac',
-          'password' => 'mycsUks',
+          'password' => 'mypass',
           'options' => 
           array (
             'ATTR_PERSISTENT' => 
